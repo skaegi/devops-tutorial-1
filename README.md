@@ -22,7 +22,7 @@ Create your new IBM DevOps project now!
 
 ## Deploy
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://https://beta3.hub.jazz.net/deploy/index.html?repository=https://github.com/skaegi/devops-tutorial-1.git&otc=true)
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://beta3.hub.jazz.net/deploy/index.html?repository=https://github.com/skaegi/devops-tutorial-1.git&otc=true)
 
   - Edit the manifest.yml file in your ./bluemix directory.
   - Your Bluemix pipeline will need to have a Build and Deploy phase.  
