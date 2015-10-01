@@ -1,0 +1,7 @@
+---
+build:
+  capability: pipeline
+test:
+  capability: saucelabs
+messaging:
+  capability: slack
